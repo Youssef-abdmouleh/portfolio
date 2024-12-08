@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <label>
                         <input type="radio" name="question${index}" value="${optIndex}">
                         ${option}
-                    </label>
+                    </label><br>
                 `).join('')}
             `;
             quizContainer.appendChild(questionDiv);
