@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "Which tag is used to define an internal style sheet in HTML?",
-            options: ["<style>", "<css>", "<script>", "<link>"],
+            options: ["&ltstyle&gt", "&ltcss&gt", "&ltscript&gt", "&ltlink&gt"],
             correctAnswer: 0 // "<style>"
         },
         {
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "Which HTML5 element is used to define navigation links?",
-            options: ["\<navigation\>", "\<nav\>", "\<header\>", "\<footer\>"],
+            options: ["&ltnavigation&gt", "&ltnav&gt", "&ltheader&gt", "&ltfooter&gt"],
             correctAnswer: 1 // "<nav>"
         },
         {
