@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "Which HTML5 element is used to define navigation links?",
-            options: ["<navigation>", "<nav>", "<header>", "<footer>"],
+            options: ["\<navigation\>", "\<nav\>", "\<header\>", "\<footer\>"],
             correctAnswer: 1 // "<nav>"
         },
         {
