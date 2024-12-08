@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.quiz-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-question p {
+    font-weight: bold;
+}
+
+.quiz-result {
+    margin-top: 20px;
+    background: #e9ecef;
+    padding: 15px;
+    border-radius: 5px;
+}

@@ -1,0 +1,28 @@
+.education-timeline {
+    position: relative;
+    padding-left: 30px;
+    border-left: 3px solid #007bff;
+}
+
+.education-item {
+    margin-bottom: 30px;
+    position: relative;
+    padding-left: 20px;
+}
+
+.education-item::before {
+    content: '';
+    position: absolute;
+    left: -38px;
+    top: 0;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #007bff;
+}
+
+.education-details {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+}

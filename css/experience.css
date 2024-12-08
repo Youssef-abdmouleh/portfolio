@@ -1,0 +1,33 @@
+.experience-timeline {
+    position: relative;
+    padding-left: 30px;
+    border-left: 3px solid #28a745;
+}
+
+.experience-item {
+    margin-bottom: 30px;
+    position: relative;
+    padding-left: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.experience-item::before {
+    content: '';
+    position: absolute;
+    left: -38px;
+    top: 10px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #28a745;
+}
+
+.experience-item h3 {
+    color: #28a745;
+}
+
+.experience-item ul {
+    padding-left: 20px;
+}
