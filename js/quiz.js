@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             question: "Which tag is used to define an internal style sheet in HTML?",
-            options: [`<style>`, "<css>", "<script>", "<link>"],
+            options: ["&ltstyle&gt", "<css>", "<script>", "<link>"],
             correctAnswer: 0 // "<style>"
         },
         {
